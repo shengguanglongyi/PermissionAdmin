@@ -1,0 +1,2 @@
+# PermissionAdmin
+基于SpringBoot+Vue前后端分离通用权限管理后台系统PermissionAdmin
